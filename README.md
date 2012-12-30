@@ -1,0 +1,4 @@
+RR
+==
+
+dns record
